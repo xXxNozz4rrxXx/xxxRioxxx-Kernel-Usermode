@@ -2,11 +2,9 @@
 
 #### Simple kernel cheat with hook for communication
 
-![kernel-csgo-usermode.exe](https://imgur.com/8GdCwR9.png)
-
 ## How to use
 - download and compile in Visual Studio 2019 (with driver dev kit)
-- manual map the kernel-csgo.sys driver using [kdmapper](https://github.com/TheCruZ/kdmapper-1803-2004)
+- manual map the kernel-csgo.sys driver using [kdmapper](https://github.com/xxxrioxxx/kdmapperDriver)
 - run Counter-Strike: Global Offensive
 - run kernel-csgo-usermode.exe and enjoy :)
 
