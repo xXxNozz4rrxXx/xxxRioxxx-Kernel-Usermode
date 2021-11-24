@@ -1,7 +1,10 @@
-# kernel-csgo
+# kernel-BypassMethod For Faceit and EAC (its old you must update it) 
 
 #### Simple kernel cheat with hook for communication
-
+##Is it tested ?
+- Yes its tested we was use this in a past to bypass faceit 
+- Can be detected ofc
+- Project name that we test it (AeonCheats)
 ## How to use
 - download and compile in Visual Studio 2019 (with driver dev kit)
 - manual map the kernel-csgo.sys driver using [kdmapper](https://github.com/xxxrioxxx/kdmapperDriver)
